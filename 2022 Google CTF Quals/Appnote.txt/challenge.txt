@@ -1,0 +1,5 @@
+APPNOTE.TXT
+
+Description: Every single archive manager unpacks this to a different file...
+
+Attachment: dump.zip

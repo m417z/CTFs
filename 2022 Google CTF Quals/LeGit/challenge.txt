@@ -1,0 +1,12 @@
+LEGIT
+
+Description:
+I built this CLI for exploring git repositories. It's still WIP but I find it
+pretty cool! What do you think about it?
+NOTE - the challenge can reach the internet but has a tight limit on repository
+size.
+
+Attachments:
+- Dockerfile
+- nsjail.cfg
+- server.py
